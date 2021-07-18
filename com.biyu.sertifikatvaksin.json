@@ -53,9 +53,9 @@
 
 "APPODEAL_APP_ID" : "0b3d48ecd5acf06ddf34e28f717abad3bc1627db16e946a1",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251",
+"UNITY_BANNER" : "Banner",
+"UNITY_INTERSTITIAL" : "video",
+"UNITY_GAME_ID" : "4222855",
 "UNITY_TEST_MODE" : "true",
 
 "APPLOVIN_BANNER_ID" : "142a2c58a8dcfb4f",
