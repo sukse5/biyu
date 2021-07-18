@@ -22,7 +22,7 @@
 "PENGATURAN_IKLAN_inter" : "APPLOVIN",
 "PENGATURAN_IKLAN_native" : "APPODEAL",
 
-"INTER_COUNT" : 4,
+"INTER_COUNT" : 3,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
