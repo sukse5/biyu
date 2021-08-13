@@ -20,7 +20,7 @@
  // native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "ADMOB",
 "PENGATURAN_IKLAN_inter" : "UNITY",
-"PENGATURAN_IKLAN_native" : "STARTAPP",
+"PENGATURAN_IKLAN_native" : "APPLOVIN",
 
 "INTER_COUNT" : 2,
 
