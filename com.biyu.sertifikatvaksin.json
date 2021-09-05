@@ -20,7 +20,7 @@
  // native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "ADMOB",
 "PENGATURAN_IKLAN_inter" : "UNITY",
-"PENGATURAN_IKLAN_native" : "APPLOVIN",
+"PENGATURAN_IKLAN_native" : "STARTAPP",
 
 "INTER_COUNT" : 2,
 
@@ -33,7 +33,7 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "206633646",
+"STARAPPID" : "208677941",
 
 "ADMOB_BANNER" : "ca-app-pub-9376184963357003/2191362847",
 "ADMOB_INTER" : "ca-app-pub-2314593950848693/851150447x",
